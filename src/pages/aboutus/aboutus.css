@@ -1,0 +1,63 @@
+
+.middle{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+  }
+  
+  .why-choose-us{
+    text-align: center;
+    top: 80px;
+    left: calc(50% - 265px);
+    font-size: 45px;
+    letter-spacing: 0.06em;
+    line-height: 120.83%;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  
+  .we-are-a{
+    width: 45%;
+    right: 5px;
+    letter-spacing: 0.04em;
+    line-height: 120.83%;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 18px;
+  }
+  
+  
+  
+  .div2 {
+    position: absolute;
+    top: 866px;
+    left: 558px;
+    font-size: var(--font-size-29xl);
+    letter-spacing: 0.06em;
+    line-height: 120.83%;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .k {
+    position: absolute;
+    top: 861px;
+    left: 946px;
+    font-size: var(--font-size-29xl);
+    letter-spacing: 0.06em;
+    line-height: 120.83%;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .k1 {
+    position: absolute;
+    top: 861px;
+    left: 1302px;
+    font-size: var(--font-size-29xl);
+    letter-spacing: 0.06em;
+    line-height: 120.83%;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
